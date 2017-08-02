@@ -13,4 +13,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 While the server is running go to localhost:8080 in your browser to see the app
 
-Screenshot of the App http://i.imgur.com/Nap0Sdr.png
+Screenshot of the App https://drive.google.com/file/d/0BziLe-oIb-t6MS1HMmowbTljZmM/view?usp=sharing
